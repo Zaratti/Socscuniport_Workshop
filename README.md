@@ -7,7 +7,7 @@
 ## Zaracoin Project Highlights
 This project capabilities:
 
-- Creating a token and publishing it on the testnet.
+- Creating a token with address: 0x14022f8a1040328f7d9cd064fa55b5c111a0d8e6de503b0ecb94a5a8aed00872 and publishing it on the testnet.
 - A safe smart contract language accessible to mainstream developers.
 - Ability to define rich and composable on-chain assets.
 
